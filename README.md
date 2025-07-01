@@ -41,7 +41,7 @@ I'm a **Unity Artist**, **UI/UX Designer**, and **2D Artist** passionate about c
 📫 **Let's Connect**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://t.co/nJvAEGNxXv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/pablo-caceres-gomez/?originalSubdomain=es)](https://www.linkedin.com/in/pablo-caceres-gomez/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-caceres-gomez/)  
 
 ---
 
